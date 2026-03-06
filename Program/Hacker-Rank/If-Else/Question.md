@@ -12,7 +12,7 @@ if (condition) {
     statement1;
     ...
 }
-else {
+else { 
     statement2;
     ...
 }
