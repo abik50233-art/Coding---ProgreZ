@@ -1,0 +1,20 @@
+Write a C program to display a specific pattern using an array of characters: {'A', 'B', 'C', 'D', 'E'}.
+The program should first print decreasing suffixes of the array (starting from the first character and moving forward), and then print increasing suffixes (starting back from the fourth character and moving backward).
+Expected Output:
+text
+
+ABCDE
+BCDE
+CDE
+DE
+E
+DE
+CDE
+BCDE
+ABCDE
+
+Use code with caution.
+Constraints:
+
+    Use a single-dimensional character array to store the characters.
+    Use nested loops (such as for and while) to handle the starting point of each line and the printing of characters until the end of the array.
